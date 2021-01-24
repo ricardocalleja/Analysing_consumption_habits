@@ -2,7 +2,7 @@
 
 During the pandemic caused by Sars-cov 19 I was in Chile as an inmigrant. I had just arrived on January 17th 2020 at the Capital Santiago with my mother, an eldery (74). Furtunately I found a convenient located appartment next to the supermarket "Lider" which is the Chilean version of Walmart.
 
-Since the confinement started on March 22th. We decided to go out only once a week to buy groceries, preferably during non-busy hours (around 9am). Since I was unemployed I rigorously controled my budget, and doing so I kept all the receipts from the grocery store, then after almost a year I had 56 receipts from January 17th to September 28th of this peculiar 2020.
+Since the confinement started on March 22th. We decided to go out only once a week to buy groceries, preferably during non-busy hours (around 9am). Since I was unemployed I rigorously controled my budget, and doing so I kept all the receipts from the grocery store, then after almost a year I had 71 receipts from January 17th to September 28th of this peculiar 2020.
 
 In the next lines I will show you How did I analyse the data from the groceries store's receipts.
 
