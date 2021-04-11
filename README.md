@@ -1,3 +1,4 @@
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ricardosaviercalleja" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/ricardosaviercalleja?trk=profile-badge">Ricardo Calleja Matos</a></div>
 <p><h1>Analysing consumption habits</h1></p>
 
 During the pandemic caused by Sars-cov 19 I was in Chile as an inmigrant. I had just arrived on January 17th 2020 at the Capital Santiago with my mother, an eldery (74). Furtunately I found a convenient located appartment next to the supermarket "Lider" which is the Chilean version of Walmart.
