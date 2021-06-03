@@ -4,7 +4,7 @@ During the pandemic caused by Sars-cov 19🦠 I was in Chile as an inmigrant. I 
 
 Since the confinement started on March 22th. We decided to go out only once a week to buy groceries, preferably during non-busy hours (around 9am). Since I was unemployed I rigorously controled my budget, and doing so I kept all the receipts from the grocery store, then after almost a year I had 70 receipts of this peculiar 2020.
 
-In the next lines I will show you How did I analysed the data from the groceries store's receipts.
+In the next lines I will show you How did I analyse the data from the groceries store's receipts.
 
 <p><h1>The data</h1></p>
 This is how one of those <a href="https://drive.google.com/file/d/1UBuSZwed86JgsYzJH0pmkTx4Lo_oitp1/view?usp=sharing">receipts</a>🧾 looks like. Well, my first approach to extract the data from the receipts was to scan it using th Goggle Drive functionality, and after that, to use google vision API to convert the pdf file to text and this was the <a href="https://drive.google.com/file/d/10v3jhFpseSjfe4ou2N1j2Wkr5FRd2wmK/view?usp=sharing" >result</a>. I asked for help on regular expressions and my friend @madacol helped me with this <a href="https://regex101.com/r/cr2Acv/3/">regex</a> that was able to detect 4 important fields (product_id, quantity, product_description and unit_price). But due to the format it only detected 26 out of 30 items in the receipt.
